@@ -1,0 +1,15 @@
+Format
+	Bug description - Reproduced? - Solved? - Number of reports -  (If applicable) fixed in what version
+Known bugs -
+	Trys to use Special Attack when wielding Chaotic Rapier - Yes - Yes - 2 - 0.96
+	Fails to withdraw Varrock Teleport when banking - No - Can't reproduce - 2 - Most likely incorrect configuration of script
+	Clicks altar many times when refilling prayer sometime - No - Can't reproduce - 1
+	Does not bank when it should, does not attempt to teleport - No - Can't reproduce - 2
+	Attacks zombies in combat - No - Can't reproduce - 5 - I noticed it make the occasional excess click, but it was rare and not worth worrying about
+	Toggles prayer on and off - No - Can't reproduce - 2
+	Trys to use special with Saradomin godsword at 60% - No - Can't reproduce - 1
+	Uses all teleport tabs when it teleports to varrock - Yes - Never - 2 - Pointless
+	Loops at talking to hartwin - No - Yes - 2 - 0.96
+	Doesn't eat food - No - Can't reproduce - 1
+	Picks up bones when not in loot list - No - Yes - 4 - 0.96
+	Doesn't equip offhand weapon - Yes - Yes - 2 - 0.96

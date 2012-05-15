@@ -1,0 +1,24 @@
+Schlessy, 200197591:
+	- Sometimes loses track of all traps
+
+tomshanski, xARxJabala:
+	- When setting a new trap while another is fallen/failed/caught it clicks another one too early and fails because it is setting up a trap and then idles for a few seconds
+
+BulbasaurLV40:
+	- Works for a few hours then logs out
+
+Mrheadshot:
+	- Consistently fails to click to set the trap, sometimes taking up to 5 trys
+
+anubis89:
+	- Some sort of saftey feature as bot died
+
+General:
+	- Add falconry
+	- Add Butterflys
+	- Add Jadinkos
+	- Add Graahk
+	- Add Salamanders
+	- Sometimes does nothing at Grey Chins (Maybe users starting in wrong spot? Someone fixed by going to center piscatoris near fairy ring and yew tree)
+	- Imp catching option, low priority
+	- Lay traps around chin spawn points
